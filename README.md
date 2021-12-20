@@ -1,3 +1,3 @@
-# Web_Development
+# WEB_DEVELOPMENT
 
-# HTML_CSS
+# HTML_CSS_Javascript
