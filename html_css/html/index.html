@@ -39,3 +39,26 @@
     
 </body>
 </html>
+
+
+
+
+// Jquery Fresco Play
+
+// Function to create a homepage
+
+function login() {
+  if ($("#username").val() == "admin" && $("#password").val() == "password") {
+    doRedirect("home.html");
+  } else {
+    alert("You are not a valid user");
+  }
+}
+
+function doRedirect(href) {
+  window.location = href;
+}
+
+
+
+
